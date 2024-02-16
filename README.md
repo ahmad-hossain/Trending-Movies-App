@@ -7,4 +7,4 @@ UI Design reference taken from [dribbble](https://dribbble.com/shots/16222673-Pi
 * [Devpost](https://devpost.com/software/trending-movie-app)
 
 ## App Features Walkthrough
-![Gif](https://thumbs.gfycat.com/DistinctForcefulAmurstarfish-size_restricted.gif)
+<img src="https://github.com/ahmad-hossain/Trending-Movies-App/blob/main/walkthrough.gif"><br>
